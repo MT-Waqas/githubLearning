@@ -8,3 +8,10 @@ public static class Test
         Console.WriteLine();
     }
 }
+public static class FullyTested()
+{
+    static Test()
+    {
+        Console.WritLine('Hello man...');
+    }
+}
